@@ -17,7 +17,7 @@ VS Codeで「虚無」コマンドを実行。
 虚無からの帰還後は、心温まるランダムメッセージで新たなコーディングライフを。
 
 ## インストール
-この拡張機能はVS Code Marketplaceからインストール可能です。"Void Experience"で検索して、あなたも今すぐ虚無を体験しましょう。
+この拡張機能は[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=kyomu-vscode-takkiiii.kyomu-vscode)からインストール可能です。
 
 ## 注意事項
 この拡張機能は完全にネタです。深刻に受け取らないでください。
